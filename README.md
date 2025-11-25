@@ -19,54 +19,52 @@ A game in which you control a swarm of 'bees'.
 * There should be no central 'avatar position'. Instead you should control the parameters of the flocking simulation to move the swarm as a whole.
 * Swarm enemies to destroy them and create more 'bees'.
 
-# VR art gallery escape room
+## VR art gallery escape room
 A two-player co-op escape room set in a modern art gallery. 
 * Mechanics based around making eye-contact with figures in paintings & sculptues.
 * Based on the Tangler from Hermitcraft series 10
 
-# Apples & Oranges
+## Apples & Oranges
 A serious game about microeconomics and fruit.
 * You control a population of agents with individual utility functions for different fruits.
 * Agents allocate time to sleep & pick fruits.
 * Incrementally build improvements include housing, a marketplace, factories.
 
-# Merchant game
+## Merchant game
 A game in which you are a mechant travelling through the wilds between towns to trade goods.
 * Using a system of supply & demand to set prices dynamically.
 * Includes 'desire paths' mechanics for establishing trails
 * Includes predator/prey modelling for wolves & rabbits
 
-# Clone platformer
+## Clone platformer
 Clone yourself to escape the lab.
 * A 2D puzzle platformer in with a cloning mechanic.
 * Control all clones simultaneously to get one of them out the door.
 * Includes cloning machnics/teleporters, buttons & block-pushing
 * Possibly moving platforms too?
 
-# Cavern-sweeper
+## Cavern-sweeper
 A minesweeper varient set in procedurally generated caves.
 
-# Echo
+## Echo
 A 2D top-down dungeon explorer set in a dark room, using echo-location particles.
 
-# One-pixel VR
+## One-pixel VR
 An ultra-lowres VR adventre game in which the entire field of view is one colour.
 * With environmental audio spatialisation
 
-# Sea farer
+## Sea farer
 A top-down 2D sailing game with localisation & mapping mechanics.
 * An exploration of SLAM algorithm dynamics.
 * Sail between islands with only a linited field of vision and not absolute sense of direction.
 
-# Teddy bear
+## Teddy bear
 A 2D physics based platformer in which you defeat your child's nightmare monsters with a wooden sword.
 * 'Shadow of the Collossus' in 2D
 
-# The Trolley problem
+## The Trolley problem
 An silly 'interactive ethics lecture' in which you explore increasingly ridiculous trolley problems. 
 * Stylised to look like a powerpoint presentation (splines & svgs)
 * Flick switches on the track to decide where the trolley goes and who dies.
-
-
 
 
