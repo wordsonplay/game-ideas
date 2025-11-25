@@ -2,7 +2,7 @@
 
 ## Fog of War
 A psychological horror game about being a war refugee & trying to get to safety.
-* Based on RTS-style movement & building mechanics, but with no human adversary.
+* Based on RTS-style movement & building mechanics, but with no adversary.
 * The traditional 'fog of war' mechanic becomes more insidious.
 * Core mechanic is managing light & sanity. Push back the fog and keep your units sane.
 * Kinds of fog:
