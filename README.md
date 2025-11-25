@@ -44,7 +44,7 @@ Clone yourself to escape the lab.
 * Possibly moving platforms too?
 
 ## Cavern-sweeper
-A minesweeper varient set in procedurally generated caves.
+A minesweeper variant set in procedurally generated caves.
 
 ## Echo
 A 2D top-down dungeon explorer set in a dark room, using echo-location particles.
