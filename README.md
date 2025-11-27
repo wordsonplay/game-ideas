@@ -67,4 +67,11 @@ An silly 'interactive ethics lecture' in which you explore increasingly ridiculo
 * Stylised to look like a powerpoint presentation (splines & svgs)
 * Flick switches on the track to decide where the trolley goes and who dies.
 
+## MMOrgy 
+A silly game in which you control an active ragdoll in a writhing pile of bodies. Points for rubbing body parts with other players.
+
+## Swing Dance
+A two player game that mimics the push-pull feeling of swing dance. No idea what the mechanics should be yet.
+
+
 
