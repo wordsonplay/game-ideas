@@ -1,5 +1,17 @@
 # Malcolm's Big List of Game Ideas (feel free to steal)
 
+## The House of Leaves
+A game with a Townscaper-esque dynamic grid that morphs while you're not looking at it.
+* https://andersource.dev/2020/11/06/organic-grid.html
+* https://www.youtube.com/watch?v=_1fvJ5sHh6A&t=1s
+* https://boristhebrave.com/docs/sylves/1/articles/index.html
+
+## Escher Droster effect
+A game that uses the [Escher/Droste effect](https://pub.math.leidenuniv.nl/~smitbde/escherdroste/), in the style of an Escher woodcut.
+
+## Lock picking
+A game that actually feels like lockpicking.
+
 ## Fog of War
 A psychological horror game about being a war refugee & trying to get to safety.
 * Based on RTS-style movement & building mechanics, but with no adversary.
